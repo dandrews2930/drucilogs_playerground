@@ -1,0 +1,27 @@
+version: "20260530125105"
+downloadprefix: "https://dandrews2930.github.io/drucilogs_playerground/rof/"
+downloads:
+- name: "dbstr_us.txt"
+  md5: "074DB955B8B05322EF725BECF9946D97"
+  date: "2026-03-05 16:56:04"
+  size: 6325613
+- name: "dinput8.dll"
+  md5: "47F80D6F1155B55FB06C4B40014EF29E"
+  date: "2026-05-24 11:39:29"
+  size: 1196544
+- name: "eqhost.txt"
+  md5: "0A349706F59C64667904BECA91DEFC85"
+  date: "2026-02-11 08:45:24"
+  size: 47
+- name: "eqstr_us.txt"
+  md5: "EDB8D475CD9F127D1F9520871C04301B"
+  date: "2026-05-30 11:55:22"
+  size: 432249
+- name: "GlobalLoad_chr.txt"
+  md5: "80CAFF31DD0249F1C191B8EF3D7CC5AC"
+  date: "2026-05-29 21:39:37"
+  size: 2026
+- name: "spells_us.txt"
+  md5: "727D0AC20587A1EE172D4DF4BA8A0FF3"
+  date: "2026-05-30 11:50:47"
+  size: 27911841
