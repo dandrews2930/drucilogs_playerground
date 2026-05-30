@@ -1,4 +1,4 @@
-version: "20260530125105"
+version: "20260530160228"
 downloadprefix: "https://dandrews2930.github.io/drucilogs_playerground/rof/"
 downloads:
 - name: "dbstr_us.txt"
@@ -21,7 +21,11 @@ downloads:
   md5: "80CAFF31DD0249F1C191B8EF3D7CC5AC"
   date: "2026-05-29 21:39:37"
   size: 2026
+- name: "SkillCaps.txt"
+  md5: "CB0167D2A4EA6F17963A3CB1B3564BBF"
+  date: "2026-05-30 16:00:37"
+  size: 1090911
 - name: "spells_us.txt"
-  md5: "727D0AC20587A1EE172D4DF4BA8A0FF3"
-  date: "2026-05-30 11:50:47"
-  size: 27911841
+  md5: "2EA10879B9BAA9E93949992CB6907E11"
+  date: "2026-05-30 13:27:09"
+  size: 27871119
