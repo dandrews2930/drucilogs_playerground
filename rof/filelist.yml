@@ -1,9 +1,9 @@
-version: "20260625102458"
+version: "20260625175436"
 downloadprefix: "https://dandrews2930.github.io/drucilogs_playerground/rof/"
 downloads:
 - name: "dbstr_us.txt"
   md5: "18F791A7273B6B77DCF19CD67459B7E3"
-  date: "2026-06-25 09:55:58"
+  date: "2026-06-25 17:49:58"
   size: 6369203
 - name: "dinput8.dll"
   md5: "47F80D6F1155B55FB06C4B40014EF29E"
@@ -14,18 +14,18 @@ downloads:
   date: "2026-06-24 18:10:24"
   size: 47
 - name: "eqstr_us.txt"
-  md5: "EDB8D475CD9F127D1F9520871C04301B"
-  date: "2026-06-25 10:24:58"
-  size: 432249
+  md5: "A6FB4CB2EE04F766BBD27A7374AD99CF"
+  date: "2026-06-25 17:34:36"
+  size: 425112
 - name: "GlobalLoad_chr.txt"
-  md5: "80CAFF31DD0249F1C191B8EF3D7CC5AC"
-  date: "2026-06-25 10:24:58"
-  size: 2026
+  md5: "E1B5EDB0C833EE72554C8497FE2D2ED2"
+  date: "2026-06-25 17:34:36"
+  size: 1821
 - name: "SkillCaps.txt"
   md5: "35A5AD001BCE30969E87C0487E300260"
-  date: "2026-06-25 09:55:58"
+  date: "2026-06-25 17:49:58"
   size: 950987
 - name: "spells_us.txt"
-  md5: "60287E73FC4EC93510F14890F54CD64E"
-  date: "2026-06-25 09:55:58"
+  md5: "807CCED322EFF3B0E49E0E1227B61F52"
+  date: "2026-06-25 17:49:58"
   size: 28245782
